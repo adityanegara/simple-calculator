@@ -6,3 +6,15 @@ git add .
 
 git commit -m 
 : untuk mengcommit file git
+
+git branch -M main
+
+git remote add origin https://github.com/adityanegara/simple-calculator.git
+: git hubungkan ke penyumpanan luar bernama origin linknya
+https://github.com/adityanegara/simple-calculator.git
+
+git remote
+: mengecek remote repository yang ada
+
+git checkout -b "validasi"
+: membuat branch baru

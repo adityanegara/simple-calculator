@@ -1,3 +1,4 @@
+alert("testing one");
 const inputOne = document.getElementById('numberOne');
 const inputTwo = document.getElementById('numberTwo');
 const addButton = document.getElementById('addButton');
@@ -9,7 +10,7 @@ addButton.addEventListener('click', () => {
     if(validation(inputOneValue, inputTwoValue)){
         result.innerHTML = parseInt(inputOne.value) + parseInt(inputTwo.value);
     }else{
-        
+
     }
 });
 

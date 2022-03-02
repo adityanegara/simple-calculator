@@ -1,4 +1,4 @@
-alert("testing one");
+alert("testing two");
 const inputOne = document.getElementById('numberOne');
 const inputTwo = document.getElementById('numberTwo');
 const addButton = document.getElementById('addButton');

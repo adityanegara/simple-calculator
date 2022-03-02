@@ -1,0 +1,8 @@
+git init
+: Untuk menginisialisasi file git
+
+git add .
+: untuk mentrack semua file dalam folder
+
+git commit -m 
+: untuk mengcommit file git
